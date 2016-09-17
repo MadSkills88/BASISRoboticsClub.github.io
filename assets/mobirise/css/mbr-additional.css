@@ -1,9 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
 
-
-
-
-
 #header1-40 .btn {
   font-size: 20px;
   font-family: 'Oxygen', sans-serif;
@@ -260,4 +256,20 @@
 }
 #msg-box3-117 .mbr-article P {
   text-align: left;
+}
+
+#sponsor-us-button {
+  text-align:center;
+  margin:auto;
+  left:0;
+  right:0;
+  position:absolute;
+  width:80%;
+  background:#faaf40;
+  border-color:transparent;
+  color:white;
+}
+#sponsor-us-button:hover {
+  background:black;
+  color:white;
 }
