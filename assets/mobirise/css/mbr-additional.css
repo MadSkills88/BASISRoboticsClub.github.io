@@ -279,7 +279,7 @@
 .btn-default:active,
 .btn-default.active,
 {
-  color: inherit;
-  background-color: inherit;
-  border-color: inherit;
+  color: black!important;
+  background-color: white!important;
+  border-color: black!important;
 }
