@@ -310,3 +310,8 @@
   color:white!important;
   border-color:black!important;
 }
+
+.mbr-navbar__brand-link:after,
+.mbr-navbar__brand-img {
+  height: 50px;
+}
