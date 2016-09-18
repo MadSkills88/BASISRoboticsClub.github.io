@@ -273,3 +273,40 @@
   background:black;
   color:white;
 }
+
+.btn-default:active, .btn-default.active, .btn-default:focus, .btn-default.focus {
+  background:transparent!important;
+  color:white!important;
+  border-color:white!important;
+}
+
+.btn-default:hover, .btn-default.hover {
+  background:white!important;
+  color:black!important;
+  border-color:white!important;
+}
+
+.btn-warning:active, .btn-warning.active, .btn-warning:focus, .btn-warning.focus {
+  background:#faaf40!important;
+  color:white!important;
+  border-color:#faaf40!important;
+}
+
+.btn-warning:hover, .btn-warning.hover {
+  background:black!important;
+  color:white!important;
+  border-color:black!important;
+}
+
+
+.btn-default-2:active, .btn-default-2.active, .btn-default-2:focus, .btn-default-2.focus {
+  background:white!important;
+  color:black!important;
+  border-color:black!important;
+}
+
+.btn-default-2:hover, .btn-default-2.hover {
+  background:black!important;
+  color:white!important;
+  border-color:black!important;
+}
