@@ -273,13 +273,3 @@
   background:black;
   color:white;
 }
-
-.btn-default:focus,
-.btn-default.focus,
-.btn-default:active,
-.btn-default.active,
-{
-  color: black!important;
-  background-color: white!important;
-  border-color: black!important;
-}
